@@ -13,14 +13,7 @@ Welcome to **Pokémon Finder**, a simple and interactive website that allows you
 * HTML, CSS, JavaScript
 * Pokémon API (PokeAPI)
 
-## 🌐 Live Demo
 
-[Visit Pokémon Finder](your-live-demo-link)
-
-## 📸 Screenshots
-
-![Screenshot 1](your-screenshot-link-1)
-![Screenshot 2](your-screenshot-link-2)
 
 ## 🚀 Getting Started
 
